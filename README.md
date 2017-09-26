@@ -6,3 +6,6 @@ The awesome list I have found.
 - [learn-regex](https://github.com/zeeshanu/learn-regex): Learn regex the easy way
 - [project-guidelines](https://github.com/wearehive/project-guidelines): A set of best practices for JavaScript projects
 - [HTML to JSX](http://magic.reactjs.net/htmltojsx.htm): HTML to JSX Compiler
+- [Good Web Design](http://www.goodweb.design/): The best landing pages, organized by section
+About
+
